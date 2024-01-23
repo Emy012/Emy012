@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Emy012
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning eCTFs challenges
+- 💞️ I’m looking to collaborate on 
+- 😄 Pronouns: she/her :)
+- ⚡ Fun Fact: I speak two languages!
